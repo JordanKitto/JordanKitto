@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jordan 👋
 
-<!--
-**JordanKitto/JordanKitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems & Data Analyst & QUT CS Student and aspiring Data Engineer. I build automation tools in Python and SQL to streamline manual processes across enterprise systems like Oracle and SAP.
 
-Here are some ideas to get you started:
+- 🧠 Replacing 2.5-hour daily workflows with sub-30-minute Python automation
+- 📊 Automating multi-million-dollar invoice analysis for Queensland Health
+- 🛠️ Tools: Python, SQL, Oracle, Power BI, KNIME, Power Automate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀Current Projects
+- [Invoice Optimisation Report Automation](https://github.com/JordanKitto/sql-python-automation)
+
+## 💬 Let's connect
+- [LinkedIn](https://linkedin.com/in/jordan-kitto)
+- [Email](jkitt8@hotmail.com)
+
+## 💬 Let's connect
+- Im currently working at QLD Health
+- Interested in transitioning into a more technical data role working with cutting edge cloud technologies
