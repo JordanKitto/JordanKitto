@@ -1,6 +1,6 @@
 # Hi, I'm Jordan 👋
 
-I'm a Systems & Data Analyst & QUT CS Student and aspiring Data Engineer. I build automation tools in Python and SQL to streamline manual processes across enterprise systems like Oracle and SAP.
+I'm a Systems & Data Analyst & QUT CS Student, aspiring Data Engineer. I build automation tools in Python and SQL to streamline manual processes across enterprise systems like Oracle and SAP.
 
 - 🧠 Replacing 2.5-hour daily workflows with sub-30-minute Python automation
 - 📊 Automating multi-million-dollar invoice analysis for Queensland Health
