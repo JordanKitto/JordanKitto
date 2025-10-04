@@ -9,6 +9,7 @@ I'm a Systems & Data Analyst & QUT CS Student, aspiring Data Engineer. I build a
 
 ## 🚀Current Projects
 - [Invoice Optimisation Report Automation](https://github.com/JordanKitto/sql-python-automation)
+- [Service Entrt Sheet Report Automation](https://github.com/JordanKitto/service-entry-pipeline)
 
 ## 💬 Let's connect
 - [LinkedIn](https://linkedin.com/in/jordan-kitto)
