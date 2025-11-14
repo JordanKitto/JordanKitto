@@ -14,6 +14,7 @@ I'm a Systems & Data Analyst & QUT CS Student, aspiring Data Engineer. I build a
 ## 💬 Let's connect
 - [LinkedIn](https://linkedin.com/in/jordan-kitto)
 - [Email](jkitt8@hotmail.com)
+- [My Website] (https://jordankitto.github.io/data_engineering_portfolio/) 
 
 ## 💬 Let's connect
 - Im currently working at QLD Health
