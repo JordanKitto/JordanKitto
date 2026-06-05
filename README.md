@@ -1,10 +1,32 @@
-# Hi, I'm Jordan 👋
+# Hi, I'm Jordan
 
-I'm a Systems & Data Analyst, aspiring Data Engineer. I build automation tools in Python and SQL to streamline manual processes across enterprise systems like Oracle and SAP.
+I'm a **Data Analyst / Data Engineer** working across enterprise data automation, reporting and analytics in government environments.
 
-- 🧠 Replacing 2.5-hour daily workflows with sub-30-minute Python automation
-- 📊 Automating multi-million-dollar invoice analysis for Queensland Health
-- 🛠️ Tools: Python, SQL, Oracle, Power BI, KNIME, Power Automate
+I build **SQL, Python and Power BI** solutions that replace manual reporting processes, improve data quality and turn complex operational data into reliable business insights.
+
+## What I Work On
+
+- Building automated Python and SQL pipelines across Oracle, SAP, SharePoint and operational datasets
+- Developing Power BI dashboards for workflow monitoring, ticket management, invoice exceptions and operational reporting
+- Transforming manual and low-code reporting processes into repeatable, validated analytics workflows
+- Working with stakeholders to clarify requirements, define business rules and deliver practical data solutions
+
+## Tools and Technologies
+
+- **Languages:** Python, SQL, Java
+- **Data and Analytics:** Pandas, NumPy, DuckDB, Power BI, Power Query, DAX, Excel
+- **Databases and Enterprise Systems:** Oracle, Microsoft SQL Server, MySQL, SAP S/4HANA, SAP VIM
+- **Automation and Workflow:** SharePoint, Power Automate
+- **Developer Tools:** GitHub, VS Code, Cursor, Claude Code, Codex
+
+## Current Focus
+
+- Data engineering fundamentals
+- Analytics engineering
+- SQL performance and data modelling
+- Python automation and pipeline development
+- Power BI reporting and semantic model design
+
 
 
 ## 🚀Current Projects
